@@ -16,7 +16,7 @@ class Scraper
   end
 
 
-  #def pick_movie 
+  def pick_movie 
     input = nil
 
     while input != "exit"
